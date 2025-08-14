@@ -21,7 +21,6 @@ const styles = StyleSheet.create({
 })
 
 const AppBarTab = ({ text }) => {
-  
   return (
     <Pressable style={styles.tab}>
       <Text style={styles.label}>{text}</Text>

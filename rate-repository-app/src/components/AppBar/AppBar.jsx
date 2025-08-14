@@ -12,7 +12,6 @@ const styles = StyleSheet.create({
     paddingHorizontal: 8,
     paddingVertical: 8,
     flexDirection: 'row',
-    // ...
   },
   // ...
 });
